@@ -1,0 +1,58 @@
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\Devart.Data.dll
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\Devart.Data.SQLite.dll
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\Devart.Data.xml
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\bin\Debug\Devart.Data.SQLite.xml
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\fiverr\fiverr\iphone sms winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\Devart.Data.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\Devart.Data.SQLite.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Program od 0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Devart.Data.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Devart.Data.SQLite.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml

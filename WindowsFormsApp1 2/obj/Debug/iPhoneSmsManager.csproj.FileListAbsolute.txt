@@ -1,0 +1,111 @@
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Devart.Data.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Devart.Data.SQLite.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\iPhoneSmsManager.csprojAssemblyReference.cache
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\iPhoneSmsManager.csproj.GenerateResource.cache
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\iPhoneSmsManager.csproj.CopyComplete
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\messageBackup.db
+C:\Users\Abdul Rafey\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdate.resources
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\messageBackup.db
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\Microsoft.Win32.Registry.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.xml
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmMain.resources
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmUpdate.resources
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe.licenses
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CopyComplete
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\Devart.Data.dll
+\\Mac\Home\Desktop\OD drugiego araba\WindowsFormsApp1 2\bin\Debug\Devart.Data.SQLite.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\messageBackup.db
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\Devart.Data.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\Devart.Data.SQLite.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\Microsoft.Win32.Registry.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.xml
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmMain.resources
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmUpdate.resources
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe.licenses
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CopyComplete
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\czesc druga programu\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\messageBackup.db
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\Devart.Data.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\Devart.Data.SQLite.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\Microsoft.Win32.Registry.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\WindowsFormsApp1 2\bin\Debug\System.Data.SQLite.xml
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmMain.resources
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.frmUpdate.resources
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe.licenses
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\iPhoneSmsManager.csproj.CopyComplete
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\WindowsFormsApp1 2\obj\Debug\WindowsFormsApp1.pdb
